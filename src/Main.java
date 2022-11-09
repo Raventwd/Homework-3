@@ -25,7 +25,14 @@ public class Main {
         short bird = -159;
         short Snake = 27897;
         byte elephant = 67;
-
+        System.out.println(Parrot);
+        System.out.println(Dog );
+        System.out.println(Tiger);
+        System.out.println(snake);
+        System.out.println(Elephant);
+        System.out.println(Snake);
+        System.out.println(elephant);
+        System.out.println(bird);
         //Task 3
 
         short totalPapersCount = 480;
